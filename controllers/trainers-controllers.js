@@ -1,4 +1,4 @@
-const Trainer = require('../models/Trainer');
+const Trainer = require('../models/trainer');
 
 // Controller to create a new trainer
 exports.createTrainer = async (req, res) => {
